@@ -12,4 +12,4 @@ The "frame" data is a running total number of frames TrackIR has produced in the
 The blue line is a running average, where as the gray line is the raw FPS computed from the frame delta.
 
 # Example Usage
-An example of this library in action can be seen in this video: 
+An example of this library in action can be seen in this video: https://youtu.be/biNUvrzudj4
